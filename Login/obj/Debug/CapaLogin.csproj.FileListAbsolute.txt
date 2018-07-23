@@ -1,0 +1,13 @@
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\bin\Debug\Login.exe.config
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\bin\Debug\Login.exe
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\bin\Debug\Login.pdb
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\bin\Debug\Negocio.dll
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\bin\Debug\Negocio.pdb
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\obj\Debug\CapaLogin.csprojResolveAssemblyReference.cache
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\obj\Debug\Login.FormLogin.resources
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\obj\Debug\Login.Properties.Resources.resources
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\obj\Debug\CapaLogin.csproj.GenerateResource.Cache
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\obj\Debug\Login.exe
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\obj\Debug\Login.pdb
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\bin\Debug\Inicio.exe
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\bin\Debug\Inicio.pdb

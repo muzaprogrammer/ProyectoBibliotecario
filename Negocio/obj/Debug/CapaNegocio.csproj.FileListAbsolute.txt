@@ -1,0 +1,57 @@
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Negocio\bin\Debug\Negocio.dll
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Negocio\bin\Debug\Negocio.pdb
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Negocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Negocio\obj\Debug\Negocio.dll
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Negocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Negocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Negocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Negocio\bin\Debug\SIDIB.accdb
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Negocio\bin\Debug\Negocio.dll.config
+G:\Proyecto\Negocio\bin\Debug\SIDIB.accdb
+G:\Proyecto\Negocio\bin\Debug\Negocio.dll.config
+G:\Proyecto\Negocio\bin\Debug\Negocio.dll
+G:\Proyecto\Negocio\bin\Debug\Negocio.pdb
+G:\Proyecto\Negocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+G:\Proyecto\Negocio\obj\Debug\Negocio.dll
+G:\Proyecto\Negocio\obj\Debug\Negocio.pdb
+F:\Proyecto\Negocio\bin\Debug\SIDIB.accdb
+F:\Proyecto\Negocio\bin\Debug\Negocio.dll.config
+F:\Proyecto\Negocio\bin\Debug\Negocio.dll
+F:\Proyecto\Negocio\bin\Debug\Negocio.pdb
+F:\Proyecto\Negocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+F:\Proyecto\Negocio\obj\Debug\Negocio.dll
+F:\Proyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Nivek\Desktop\Proyecto\Negocio\bin\Debug\SIDIB.accdb
+C:\Users\Nivek\Desktop\Proyecto\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Nivek\Desktop\Proyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\Nivek\Desktop\Proyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Nivek\Desktop\Proyecto\Negocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Nivek\Desktop\Proyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\Nivek\Desktop\Proyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Nivek\Desktop\Proyecto1\Negocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Nivek\Desktop\Proyecto1\Negocio\obj\Debug\Negocio.dll
+C:\Users\Nivek\Desktop\Proyecto1\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Nivek\Desktop\Proyecto1\Negocio\bin\Debug\SIDIB.accdb
+C:\Users\Nivek\Desktop\Proyecto1\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Nivek\Desktop\Proyecto1\Negocio\bin\Debug\Negocio.dll
+C:\Users\Nivek\Desktop\Proyecto1\Negocio\bin\Debug\Negocio.pdb
+C:\Proyecto\Negocio\bin\Debug\SIDIB.accdb
+C:\Proyecto\Negocio\bin\Debug\Negocio.dll.config
+C:\Proyecto\Negocio\bin\Debug\Negocio.dll
+C:\Proyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Proyecto\Negocio\obj\Debug\Negocio.dll
+C:\Proyecto\Negocio\obj\Debug\Negocio.pdb
+C:\Proyecto\Negocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache

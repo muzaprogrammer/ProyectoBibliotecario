@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4612901E-F278-4F1F-A366-39BE97899DC9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaDiseño</RootNamespace>
+    <AssemblyName>Login</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgregarLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarLibro.Designer.cs">
+      <DependentUpon>AgregarLibro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarUsuaario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarUsuaario.Designer.cs">
+      <DependentUpon>AgregarUsuaario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Busqueda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busqueda.Designer.cs">
+      <DependentUpon>Busqueda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conexion.cs" />
+    <Compile Include="Controlprestamos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controlprestamos.Designer.cs">
+      <DependentUpon>Controlprestamos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetPInternos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetPInternos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="eReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>eReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Estadisticas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estadisticas.Designer.cs">
+      <DependentUpon>Estadisticas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMdiInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMdiInicio.Designer.cs">
+      <DependentUpon>FormMdiInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HacerPrestamo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HacerPrestamo.Designer.cs">
+      <DependentUpon>HacerPrestamo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventario.Designer.cs">
+      <DependentUpon>Inventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Libros.cs" />
+    <Compile Include="Login.cs" />
+    <Compile Include="Metodos.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReporteEstadisticas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteEstadisticas.Designer.cs">
+      <DependentUpon>ReporteEstadisticas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SIDIBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SIDIBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SIDIBDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SIDIBDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SIDIBDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SIDIBDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SIDIBDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SIDIBDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SIDIBDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SIDIBDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios.Designer.cs">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AgregarLibro.resx">
+      <DependentUpon>AgregarLibro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarUsuaario.resx">
+      <DependentUpon>AgregarUsuaario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Busqueda.resx">
+      <DependentUpon>Busqueda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controlprestamos.resx">
+      <DependentUpon>Controlprestamos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>eReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estadisticas.resx">
+      <DependentUpon>Estadisticas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMdiInicio.resx">
+      <DependentUpon>FormMdiInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HacerPrestamo.resx">
+      <DependentUpon>HacerPrestamo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventario.resx">
+      <DependentUpon>Inventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteEstadisticas.resx">
+      <DependentUpon>ReporteEstadisticas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios.resx">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSetPInternos.xsc">
+      <DependentUpon>DataSetPInternos.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetPInternos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetPInternos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetPInternos.xss">
+      <DependentUpon>DataSetPInternos.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SIDIBDataSet.xsc">
+      <DependentUpon>SIDIBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SIDIBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SIDIBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SIDIBDataSet.xss">
+      <DependentUpon>SIDIBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SIDIBDataSet1.xsc">
+      <DependentUpon>SIDIBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="SIDIBDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SIDIBDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SIDIBDataSet1.xss">
+      <DependentUpon>SIDIBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="SIDIBDataSet2.xsc">
+      <DependentUpon>SIDIBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="SIDIBDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SIDIBDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SIDIBDataSet2.xss">
+      <DependentUpon>SIDIBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="SIDIBDataSet3.xsc">
+      <DependentUpon>SIDIBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="SIDIBDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SIDIBDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SIDIBDataSet3.xss">
+      <DependentUpon>SIDIBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="SIDIBDataSet4.xsc">
+      <DependentUpon>SIDIBDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="SIDIBDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SIDIBDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SIDIBDataSet4.xss">
+      <DependentUpon>SIDIBDataSet4.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Negocio\CapaNegocio.csproj">
+      <Project>{05a8a456-2943-4e66-bac3-37acb2b52279}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_cerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_ingresar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo_login2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_min.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_cerrar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_sistema.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_usuarios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregar_Usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_ventas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_inventario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo_login4.jpg" />
+    <None Include="Resources\fondo_login3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_prestamo.png" />
+    <None Include="Resources\greporte.png" />
+    <None Include="Resources\icono guardar.png" />
+    <None Include="Resources\ok.png" />
+    <None Include="Resources\ico_buscar.png" />
+    <None Include="Resources\ventana proyecto1.png" />
+    <None Include="Resources\fondoventana.png" />
+    <None Include="Resources\btnBuscar.png" />
+    <None Include="Resources\btn_Cancel.ico" />
+    <Content Include="Resources\btn_hover.png" />
+    <None Include="Resources\busqueda.png" />
+    <None Include="Resources\yellow-document-plus-icon.png" />
+    <None Include="Resources\cerrar_sesion.png" />
+    <None Include="Resources\ico_usuario.png" />
+    <None Include="Resources\ico_minimizar.png" />
+    <None Include="Resources\ico_cerrar.png" />
+    <None Include="Resources\fondo menu.jpg" />
+    <None Include="Resources\fondo libros.jpg" />
+    <None Include="Resources\yellow-notes-icon.png" />
+    <None Include="Resources\yellow-chart-icon.png" />
+    <None Include="Resources\yellow-address-book-icon.png" />
+    <None Include="Resources\yellow-search-icon.png" />
+    <None Include="Resources\yellow-user-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="CrystalDocMgmtUndoManagerLib">
+      <Guid>{5DF0757C-75A4-4227-AF7B-0479FC6E7A55}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

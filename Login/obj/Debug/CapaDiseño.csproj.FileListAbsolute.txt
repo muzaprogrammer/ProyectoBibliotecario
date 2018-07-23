@@ -1,0 +1,157 @@
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\bin\Debug\Login.exe.config
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\bin\Debug\Login.exe
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\bin\Debug\Login.pdb
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\bin\Debug\Negocio.dll
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\bin\Debug\Negocio.pdb
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.csprojResolveAssemblyReference.cache
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.FormLogin.resources
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.FormMdiInicio.resources
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.Properties.Resources.resources
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.csproj.GenerateResource.Cache
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\obj\Debug\Login.exe
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\obj\Debug\Login.pdb
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.AgregarUsuarios.resources
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Login\bin\Debug\Login.exe.config
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\Login.exe
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\Login.pdb
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Login\bin\Debug\Login.exe
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Login\bin\Debug\Login.pdb
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Login\bin\Debug\Negocio.dll
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Login\bin\Debug\Negocio.pdb
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.csprojResolveAssemblyReference.cache
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.AgregarUsuarios.resources
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.FormLogin.resources
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.FormMdiInicio.resources
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.ModificarUsuarios.resources
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.Properties.Resources.resources
+C:\Users\Lab2\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.csproj.GenerateResource.Cache
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Login\bin\Debug\Login.exe.config
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Login\obj\Debug\Login.exe
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Login\obj\Debug\Login.pdb
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Login\bin\Debug\Login.exe
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Login\bin\Debug\Login.pdb
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Login\bin\Debug\Negocio.dll
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Login\bin\Debug\Negocio.pdb
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Login\obj\Debug\CapaDiseño.csprojResolveAssemblyReference.cache
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Login\obj\Debug\CapaDiseño.AgregarUsuarios.resources
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Login\obj\Debug\CapaDiseño.FormLogin.resources
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Login\obj\Debug\CapaDiseño.FormMdiInicio.resources
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Login\obj\Debug\CapaDiseño.ModificarUsuarios.resources
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Login\obj\Debug\CapaDiseño.Properties.Resources.resources
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Login\obj\Debug\CapaDiseño.csproj.GenerateResource.Cache
+C:\Users\ROBERTO´S\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.ModificarUsuarios.resources
+C:\Users\ROBERTO´S\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.EliminarUsuario.resources
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\Proyecto\Login\obj\Debug\CapaDiseño.EliminarUsuario.resources
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Login\bin\Debug\Login.exe.config
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\Login.exe
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\Login.pdb
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Login\bin\Debug\Login.exe
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Login\bin\Debug\Login.pdb
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Login\bin\Debug\Negocio.dll
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Login\bin\Debug\Negocio.pdb
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.csprojResolveAssemblyReference.cache
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.FormLogin.resources
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.FormMdiInicio.resources
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.Properties.Resources.resources
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Login\obj\Debug\CapaDiseño.csproj.GenerateResource.Cache
+C:\Users\ROBERTO'S\Documents\Visual Studio 2013\Projects\Proyecto\Login\bin\Debug\SIDIB.accdb
+G:\Proyecto\Login\bin\Debug\Login.exe.config
+G:\Proyecto\Login\obj\Debug\Login.exe
+G:\Proyecto\Login\obj\Debug\Login.pdb
+G:\Proyecto\Login\bin\Debug\SIDIB.accdb
+G:\Proyecto\Login\bin\Debug\Login.exe
+G:\Proyecto\Login\bin\Debug\Login.pdb
+G:\Proyecto\Login\bin\Debug\Negocio.dll
+G:\Proyecto\Login\bin\Debug\Negocio.pdb
+G:\Proyecto\Login\obj\Debug\CapaDiseño.csprojResolveAssemblyReference.cache
+G:\Proyecto\Login\obj\Debug\CapaDiseño.FormLogin.resources
+G:\Proyecto\Login\obj\Debug\CapaDiseño.FormMdiInicio.resources
+G:\Proyecto\Login\obj\Debug\CapaDiseño.Properties.Resources.resources
+G:\Proyecto\Login\obj\Debug\CapaDiseño.csproj.GenerateResource.Cache
+F:\Proyecto\Login\bin\Debug\Login.exe.config
+F:\Proyecto\Login\obj\Debug\Login.exe
+F:\Proyecto\Login\obj\Debug\Login.pdb
+F:\Proyecto\Login\bin\Debug\SIDIB.accdb
+F:\Proyecto\Login\bin\Debug\Login.exe
+F:\Proyecto\Login\bin\Debug\Login.pdb
+F:\Proyecto\Login\bin\Debug\Negocio.dll
+F:\Proyecto\Login\bin\Debug\Negocio.pdb
+F:\Proyecto\Login\obj\Debug\CapaDiseño.csprojResolveAssemblyReference.cache
+F:\Proyecto\Login\obj\Debug\CapaDiseño.FormLogin.resources
+F:\Proyecto\Login\obj\Debug\CapaDiseño.FormMdiInicio.resources
+F:\Proyecto\Login\obj\Debug\CapaDiseño.Properties.Resources.resources
+F:\Proyecto\Login\obj\Debug\CapaDiseño.csproj.GenerateResource.Cache
+G:\Proyecto\Login\obj\Debug\CapaDiseño.Busqueda.resources
+F:\Proyecto\Login\obj\Debug\CapaDiseño.Busqueda.resources
+F:\Proyecto\Login\obj\Debug\CapaDiseño.ControlPrestamos.resources
+F:\Proyecto\Login\obj\Debug\CapaDiseño.AgregarLibro.resources
+F:\Proyecto\Login\obj\Debug\CapaDiseño.Estadisticas.resources
+F:\Proyecto\Login\obj\Debug\CapaDiseño.Inventario.resources
+F:\Proyecto\Login\obj\Debug\CapaDiseño.Usuarios.resources
+G:\Proyecto\Login\obj\Debug\CapaDiseño.AgregarLibro.resources
+G:\Proyecto\Login\obj\Debug\CapaDiseño.ControlPrestamos.resources
+G:\Proyecto\Login\obj\Debug\CapaDiseño.Estadisticas.resources
+G:\Proyecto\Login\obj\Debug\CapaDiseño.Inventario.resources
+G:\Proyecto\Login\obj\Debug\CapaDiseño.Usuarios.resources
+C:\Users\Nivek\Desktop\Proyecto\Login\bin\Debug\Login.exe.config
+C:\Users\Nivek\Desktop\Proyecto\Login\obj\Debug\Login.exe
+C:\Users\Nivek\Desktop\Proyecto\Login\obj\Debug\Login.pdb
+C:\Users\Nivek\Desktop\Proyecto\Login\bin\Debug\SIDIB.accdb
+C:\Users\Nivek\Desktop\Proyecto\Login\bin\Debug\Login.exe
+C:\Users\Nivek\Desktop\Proyecto\Login\bin\Debug\Login.pdb
+C:\Users\Nivek\Desktop\Proyecto\Login\bin\Debug\Negocio.dll
+C:\Users\Nivek\Desktop\Proyecto\Login\bin\Debug\Negocio.pdb
+C:\Users\Nivek\Desktop\Proyecto\Login\obj\Debug\CapaDiseño.csprojResolveAssemblyReference.cache
+C:\Users\Nivek\Desktop\Proyecto\Login\obj\Debug\CapaDiseño.AgregarLibro.resources
+C:\Users\Nivek\Desktop\Proyecto\Login\obj\Debug\CapaDiseño.Busqueda.resources
+C:\Users\Nivek\Desktop\Proyecto\Login\obj\Debug\CapaDiseño.ControlPrestamos.resources
+C:\Users\Nivek\Desktop\Proyecto\Login\obj\Debug\CapaDiseño.Estadisticas.resources
+C:\Users\Nivek\Desktop\Proyecto\Login\obj\Debug\CapaDiseño.FormLogin.resources
+C:\Users\Nivek\Desktop\Proyecto\Login\obj\Debug\CapaDiseño.FormMdiInicio.resources
+C:\Users\Nivek\Desktop\Proyecto\Login\obj\Debug\CapaDiseño.Inventario.resources
+C:\Users\Nivek\Desktop\Proyecto\Login\obj\Debug\CapaDiseño.Properties.Resources.resources
+C:\Users\Nivek\Desktop\Proyecto\Login\obj\Debug\CapaDiseño.Usuarios.resources
+C:\Users\Nivek\Desktop\Proyecto\Login\obj\Debug\CapaDiseño.csproj.GenerateResource.Cache
+C:\Users\Nivek\Desktop\Proyecto1\Login\bin\Debug\Login.exe.config
+C:\Users\Nivek\Desktop\Proyecto1\Login\obj\Debug\Login.exe
+C:\Users\Nivek\Desktop\Proyecto1\Login\obj\Debug\Login.pdb
+C:\Users\Nivek\Desktop\Proyecto1\Login\obj\Debug\CapaDiseño.csprojResolveAssemblyReference.cache
+C:\Users\Nivek\Desktop\Proyecto1\Login\obj\Debug\CapaDiseño.AgregarLibro.resources
+C:\Users\Nivek\Desktop\Proyecto1\Login\obj\Debug\CapaDiseño.Busqueda.resources
+C:\Users\Nivek\Desktop\Proyecto1\Login\obj\Debug\CapaDiseño.ControlPrestamos.resources
+C:\Users\Nivek\Desktop\Proyecto1\Login\obj\Debug\CapaDiseño.Estadisticas.resources
+C:\Users\Nivek\Desktop\Proyecto1\Login\obj\Debug\CapaDiseño.FormLogin.resources
+C:\Users\Nivek\Desktop\Proyecto1\Login\obj\Debug\CapaDiseño.FormMdiInicio.resources
+C:\Users\Nivek\Desktop\Proyecto1\Login\obj\Debug\CapaDiseño.Inventario.resources
+C:\Users\Nivek\Desktop\Proyecto1\Login\obj\Debug\CapaDiseño.Properties.Resources.resources
+C:\Users\Nivek\Desktop\Proyecto1\Login\obj\Debug\CapaDiseño.Usuarios.resources
+C:\Users\Nivek\Desktop\Proyecto1\Login\obj\Debug\CapaDiseño.csproj.GenerateResource.Cache
+C:\Users\Nivek\Desktop\Proyecto1\Login\bin\Debug\SIDIB.accdb
+C:\Users\Nivek\Desktop\Proyecto1\Login\bin\Debug\Login.exe
+C:\Users\Nivek\Desktop\Proyecto1\Login\bin\Debug\Login.pdb
+C:\Users\Nivek\Desktop\Proyecto1\Login\bin\Debug\Negocio.dll
+C:\Users\Nivek\Desktop\Proyecto1\Login\bin\Debug\Negocio.pdb
+C:\Proyecto\Login\bin\Debug\Login.exe.config
+C:\Proyecto\Login\obj\Debug\Login.exe
+C:\Proyecto\Login\obj\Debug\Login.pdb
+C:\Proyecto\Login\bin\Debug\SIDIB.accdb
+C:\Proyecto\Login\bin\Debug\Login.exe
+C:\Proyecto\Login\bin\Debug\Login.pdb
+C:\Proyecto\Login\bin\Debug\Negocio.dll
+C:\Proyecto\Login\bin\Debug\Negocio.pdb
+C:\Proyecto\Login\obj\Debug\CapaDiseño.csprojResolveAssemblyReference.cache
+C:\Proyecto\Login\obj\Debug\CapaDiseño.AgregarLibro.resources
+C:\Proyecto\Login\obj\Debug\CapaDiseño.Busqueda.resources
+C:\Proyecto\Login\obj\Debug\CapaDiseño.ControlPrestamos.resources
+C:\Proyecto\Login\obj\Debug\CapaDiseño.Estadisticas.resources
+C:\Proyecto\Login\obj\Debug\CapaDiseño.FormLogin.resources
+C:\Proyecto\Login\obj\Debug\CapaDiseño.FormMdiInicio.resources
+C:\Proyecto\Login\obj\Debug\CapaDiseño.Inventario.resources
+C:\Proyecto\Login\obj\Debug\CapaDiseño.Properties.Resources.resources
+C:\Proyecto\Login\obj\Debug\CapaDiseño.Usuarios.resources
+C:\Proyecto\Login\obj\Debug\CapaDiseño.csproj.GenerateResource.Cache
+C:\Proyecto\Login\obj\Debug\CapaDiseño.HacerPrestamo.resources
+C:\Proyecto\Login\obj\Debug\CapaDiseño.AgregarUsuaario.resources
+C:\Proyecto\Login\obj\Debug\Interop.CrystalDocMgmtUndoManagerLib.dll
+C:\Proyecto\Login\obj\Debug\CapaDiseño.csproj.ResolveComReference.cache
+C:\Proyecto\Login\obj\Debug\CapaDiseño.ReporteEstadisticas.resources

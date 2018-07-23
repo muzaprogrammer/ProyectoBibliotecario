@@ -1,0 +1,11 @@
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Inicio\bin\Debug\Inicio.exe.config
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Inicio\bin\Debug\Inicio.exe
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Inicio\bin\Debug\Inicio.pdb
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Inicio\bin\Debug\Negocio.dll
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Inicio\bin\Debug\Negocio.pdb
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Inicio\obj\Debug\CapaInicio.csprojResolveAssemblyReference.cache
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Inicio\obj\Debug\CapaInicio.FormMdiInicio.resources
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Inicio\obj\Debug\CapaInicio.Properties.Resources.resources
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Inicio\obj\Debug\CapaInicio.csproj.GenerateResource.Cache
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Inicio\obj\Debug\Inicio.exe
+c:\users\roberto´s\documents\visual studio 2013\Projects\Proyecto\Inicio\obj\Debug\Inicio.pdb
